@@ -1,0 +1,48 @@
+
+.input input {
+  width: 300px;
+  height: 40px;
+  background-color: aqua;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 0 10px;
+  border-color: yellow;
+}
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: yellowgreen;
+  padding: 20px 20px;
+}
+.input button {
+  width: 60px;
+  border-color: yellow;
+
+  height: 40px;
+  margin: 20px;
+  background: rgb(255, 208, 0);
+  font-size: 20px;
+  color: rgb(255, 89, 0);
+}
+
+.word-list {
+  border: 9px solid black;
+  width: 400px;
+  height: 100px;
+}
+button {
+  background-color: #4caf50;
+  color: rgb(232, 231, 236);
+  width: 70px;
+  height: 40px;
+  font-size: 25px;
+  margin: 20px 30px auto;
+  border-radius: 10px;
+  border-color: #4caf50;
+}
+.word-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
